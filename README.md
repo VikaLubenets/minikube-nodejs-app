@@ -1,1 +1,1 @@
-# minikube-nodejs-app
+This is EPAM CU/CD Lab
